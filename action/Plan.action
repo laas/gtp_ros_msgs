@@ -1,0 +1,8 @@
+#goal definition
+gtp_ros_msgs/PlanRequest request
+---
+#result definition
+gtp_ros_msgs/PlanResponse result
+---
+#feedback
+int32[] sequence

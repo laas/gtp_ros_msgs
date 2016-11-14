@@ -1,0 +1,5 @@
+ActionId actionId
+---
+bool ok
+string status
+SubSolution[] solutionParts
