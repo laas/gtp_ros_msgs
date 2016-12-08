@@ -68,6 +68,8 @@ add_service_files(
   FILES
   PublishTraj.srv
   GetDetails.srv
+  SetAttachmentFromTask.srv
+  SetAttachment.srv
 #   Service2.srv
 )
 

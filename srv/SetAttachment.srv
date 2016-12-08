@@ -1,0 +1,7 @@
+string  agent
+string  object
+int32   armId
+bool    add_not_remove
+---
+bool    success
+string  status
