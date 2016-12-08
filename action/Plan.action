@@ -5,4 +5,4 @@ gtp_ros_msgs/PlanRequest request
 gtp_ros_msgs/PlanResponse result
 ---
 #feedback
-int32[] sequence
+string step
